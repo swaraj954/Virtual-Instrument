@@ -1,2 +1,4 @@
 # Virtual-Instrument
-A basic standalone 2 oscillator subtractive synthesizer that can be used to create sounds used in electronic music
+
+
+This project is a JUCE-based audio plugin synthesizer built in C++. It features two oscillators with basic unison capability, semitone pitch shifting, volume and filter ADSR envelopes, LFO modulation routings, waveform bending, bitcrushing, chorus, and reverb effects.
